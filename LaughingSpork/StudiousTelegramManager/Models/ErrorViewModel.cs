@@ -1,6 +1,6 @@
 using System;
 
-namespace LaughingSpork.Models
+namespace StudiousTelegramManager.Models
 {
     public class ErrorViewModel
     {
